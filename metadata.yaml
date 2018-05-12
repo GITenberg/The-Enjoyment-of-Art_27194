@@ -1,0 +1,30 @@
+_repo: The-Enjoyment-of-Art_27194
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Noyes, Carleton Eldredge
+    birthdate: 1872
+    deathdate: 1950
+    gutenberg_agent_id: '32519'
+    url: http://www.gutenberg.org/2009/agents/32519
+description: ''
+gutenberg_issued: '2008-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27194'
+  lccn: 03008933
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art criticism'
+- !lcc 'N'
+- !lcsh 'Aesthetics'
+tableOfContents: The picture and the man -- The work of art as symbol -- The work
+  of art as beautiful -- Art and appreciation -- The artist.
+title: The Enjoyment of Art
+url: http://www.gutenberg.org/ebooks/27194
